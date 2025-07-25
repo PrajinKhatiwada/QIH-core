@@ -1,0 +1,17 @@
+{
+  "name": "qih-core",
+  "version": "1.0.0",
+  "description": "Quantum Information Holography engine: QSV logic, memory, fractals, and collapse mechanics",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "quantum",
+    "fractal",
+    "holographic",
+    "QSV",
+    "time-crystal",
+    "algorithm"
+  ],
+  "author": "prajinkhatiwada",
+  "license": "MIT"
+}
